@@ -2,7 +2,7 @@
   
  
   
-![MidhiaQ GitHub stats](https://github-readme-stats.vercel.app/api?username=Midhia&theme=transparent&show_icons=true)
+![MidhiaQ GitHub stats](https://github-readme-stats.vercel.app/api?username=MidhiaQ&theme=transparent&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidhiaQ&hide_progress=false&theme=transparent)
           
