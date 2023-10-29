@@ -9,8 +9,7 @@
 💻 I’m currently learning C, Python and JS
 
   ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-  ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)         
+  ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)       
 📫 How to reach me:
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/queirozmidhia/)
